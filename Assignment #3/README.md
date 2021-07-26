@@ -1,5 +1,5 @@
 # Images
-![tree1](https://github.com/duong-jason/CPSC_323/blob/main/Assignment%20%233/images/treea.PNG)
+![tree1](https://github.com/duong-jason/CPSC_323/blob/main/Assignment%20%233/images/treea.PNG) </br>
 ![tree2](https://github.com/duong-jason/CPSC_323/blob/main/Assignment%20%233/images/treeb.PNG) </br>
 ![token](https://github.com/duong-jason/CPSC_323/blob/main/Assignment%20%233/images/token.PNG)
 ![prdp](https://github.com/duong-jason/CPSC_323/blob/main/Assignment%20%233/images/prdp.PNG)
